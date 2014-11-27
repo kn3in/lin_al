@@ -1,5 +1,5 @@
 build:
-	c++ ols.cpp -o ls -I eigen322
+	c++ ols.cpp -o bin/ols -I eigen322
 
 set_eigen:
 	mkdir eigen322
