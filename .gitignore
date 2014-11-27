@@ -29,3 +29,6 @@
 
 #Eigen library
 eigen322/
+
+# Binaries
+bin/
